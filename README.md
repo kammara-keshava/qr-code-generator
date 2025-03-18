@@ -74,4 +74,4 @@ This project is open-source and available under the MIT License.
 
 Author
 
-Your Name - [Link TEXT](https://github.com/kammara-keshava)
+Your Name - [KAMMARA KESAVA](https://github.com/kammara-keshava)
