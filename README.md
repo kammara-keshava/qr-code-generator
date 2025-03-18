@@ -64,13 +64,7 @@ The QR code will be generated and displayed.
 
 Click the "Download" button to save the QR code as an image.
 
-File Structure
 
-qrcode-generator/
-│── index.html    # Main HTML file
-│── style.css     # CSS for styling
-│── script.js     # JavaScript for QR code logic
-Dependencies
 
 qrcode.min.js (If using an external QR code library)
 
@@ -80,5 +74,4 @@ This project is open-source and available under the MIT License.
 
 Author
 
-Your Name - Your GitHub Profile
-
+Your Name - [Link TEXT](https://github.com/kammara-keshava)
