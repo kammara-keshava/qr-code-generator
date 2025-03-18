@@ -3,8 +3,17 @@ QR Code Generator
 Description
 
 This is a simple QR Code Generator built using HTML, CSS, and JavaScript. It allows users to input text or a URL and generate a QR code instantly. The generated QR code can be downloaded as an image.
+
+
+
+
 interface the website
-image1.png
+
+
+
+![image1](image1.png)
+
+
 
 Screeshot of the website after adding the link or text in the box
 
