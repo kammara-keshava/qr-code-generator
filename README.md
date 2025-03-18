@@ -17,7 +17,7 @@ interface the website
 
 Screeshot of the website after adding the link or text in the box
 
-image2.png
+![image2](image2.png)
 
 
 
